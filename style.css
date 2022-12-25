@@ -47,7 +47,7 @@ img
     margin-right:30%;
     margin-left: 0%;
 }
-@media only screen and (max-width: 350px) {
+@media only screen and (max-width: 400px) {
     .button_1{
       margin-left: 5%;
       margin-right: 10%;
